@@ -1,11 +1,7 @@
 {
-  "//1": "describes your app and its dependencies",
-  "//2": "https://docs.npmjs.com/files/package.json",
-  "//3": "updating this file will download and update your packages",
-
-  "name": "my-glitch-app",
-  "version": "0.0.1",
-  "description": "What am I about?",
+  "name": "freecode-timestamp-microservice",
+  "version": "0.0.2",
+  "description": "https://www.freecodecamp.com/challenges/timestamp-microservice",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -17,12 +13,13 @@
     "node": "8.1.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/welcome-project"
+    "url": "https://github.com/TogusaRusso/freecode-timestamp-microservice"
   },
   "license": "MIT",
   "keywords": [
     "node",
     "glitch",
-    "express"
+    "express",
+    "freecode-camp"
   ]
 }
